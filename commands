@@ -50,3 +50,4 @@ useradd and usermod - Add a new user or change existing user data
 passwd - Create or update passwords for existing users
 git push - Everything up-to-date
 git commit - condition
+git add . - select all in git hub
