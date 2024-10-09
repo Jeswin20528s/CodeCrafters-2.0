@@ -51,3 +51,4 @@ passwd - Create or update passwords for existing users
 git push - Everything up-to-date
 git commit - condition
 git add . - select all in git hub
+python3 main.py - to run python code
