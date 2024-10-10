@@ -53,3 +53,4 @@ git commit - condition
 git add . - select all in git hub
 python3 main.py - to run python code
  """  - skip code
+ pip3 install flask - help to install package
