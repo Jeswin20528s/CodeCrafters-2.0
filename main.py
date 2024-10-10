@@ -6,4 +6,27 @@ if num_1 == num_2:
     print("both are same")
 else:
     print("both are diff")
- """  
+
+  
+
+i = 1
+while i < 10:
+    print(i,'hello')
+    i=i +1
+
+
+for i in range(0,5, 2) :
+    print(i, "rave") 
+
+
+ab = 10
+bc = 12
+ 
+def number_add(a, b):
+    sum = a+b
+    return sum
+
+new_sum = number_add(ab, bc)
+
+print(new_sum)
+"""
