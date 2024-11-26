@@ -1,0 +1,4 @@
+x = int(input("enter a 1st number ="))
+y = int(input("enter a 2nd number ="))
+z=x+y
+print (z)
